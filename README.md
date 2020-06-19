@@ -1,8 +1,7 @@
 # Advanced Operating Systems
-This repository holds the coding assignments and answer keys for a course on Advanced Operating Systems.
 
-# Password-Protected Files
-Please note that some of the files in this repository are password-protected.  You will need to contact Daniel Huettner to request access.
+## Overview
+This repository holds the reading material and coding exercises for a course on Advanced Operating Systems at Langara College.
 
-# Author
-All files in this repository were created by Daniel Huettner.
+## Author
+All files in this repository were written by Daniel Huettner.
